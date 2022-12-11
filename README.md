@@ -1,6 +1,6 @@
 # Projeto ByteBank - ADM
 
-Projeto criado durante a formação de C#. 
+Um dos projetos criados durante a formação de C# e Orientação de Objetos. 
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
