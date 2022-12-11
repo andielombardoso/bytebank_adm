@@ -4,14 +4,11 @@ Projeto criado durante a formação de C#.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
-
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+| :sparkles: Nome        | **ByteBank - ADM**
+| :label: Tecnologias | c#
+| :rocket: URL         | https://github.com/andielombardoso/bytebank_adm
+| :fire: Desafio     | https://cursos.alura.com.br/formacao-c-sharp-orientacao-objetos
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Projeto desenvolvido para criar um sistema interno dentro do banco fictício ByteBank, onde é possível fazer o controle de RH, como funções, salários e bonificação dos funcionários. E também autentifica os logins para acesso desse sistema. 
